@@ -16,12 +16,12 @@ Seaborn
 **Data Cleaning:** Handle missing values, outliers, and any inconsistencies in the dataset.
 **Exploratory Data Analysis (EDA):** Explore the dataset using visualizations and statistical summaries to understand the distributions, correlations, and patterns in the data.
 **Feature Engineering:** Create new features or transform existing ones to enhance the predictive power of the dataset.
-**Label Encoding:** Used to convert categorical variables into numerical format.
+**Label Encoding:** Used to convert categorical variables into numerical format.<
 
 # Result
-Overview of the distribution of various features such as departure delays, arrival delays, flight durations, etc.
-Trends and patterns over time, such as the busiest times of day, week, or year for flights.
-Analysis of flight routes, including the most common routes and destinations.
+**Point 1:** Overview of the distribution of various features such as departure delays, arrival delays, flight durations, etc.
+**Point 2:** Trends and patterns over time, such as the busiest times of day, week, or year for flights. 
+**Point 3:** Analysis of flight routes, including the most common routes and destinations.
 
 # Future Work
 Build predictive models to forecast flight delays or cancellations.
